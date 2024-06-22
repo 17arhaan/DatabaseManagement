@@ -3,9 +3,7 @@
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
-<h3 allign = "center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*zpnzhqvvazmJpJLkHB3VcQ.gif">
-</div>
+<img src="https://i.pinimg.com/originals/71/39/c9/7139c9e132669abc7c8ad116787b638c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
